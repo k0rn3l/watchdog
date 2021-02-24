@@ -1,5 +1,5 @@
 # watchdog
-Very simple watchdog running in docker container utilizing hardware watchdog SOC on Raspberry PI. Helps with RPi hardware hangs when ussing hassio home assisstant OS image.
+Very simple watchdog running in docker container utilizing hardware watchdog SOC on Raspberry PI. Helps with RPi hardware hangs when ussing Home Assistant Operating System image (hassio).
 
 Usage:
 1. Activate ssh/terminal hassio addon ( https://github.com/hassio-addons/addon-ssh )
